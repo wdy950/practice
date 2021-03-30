@@ -1,2 +1,1 @@
-# practice
-it's a practice project
+这是github的练习仓库
